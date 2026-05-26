@@ -12,7 +12,7 @@ Welcome to my GitHub page! I'm a Cybersecurity student passionate about IT infra
 
 # Personal Space 🌐 
 
-📧 Email: Michaelpapikyan1@gmail.com
+📧 Email: `Michaelpapikyan1[AT]gmail.com`
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-papikyan-ba83a1331/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAWotaEFMSMGj5tFKqtE%2FMg%3D%3D)
 🎮 [Steam](https://steamcommunity.com/profiles/76561198847078195/)
-💬 Discord: Night0ps  
+💬 Discord: `Night0ps`
