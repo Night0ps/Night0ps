@@ -14,10 +14,6 @@ Welcome to my GitHub page! I'm a Cybersecurity student passionate about IT infra
 - 💼 Business: [LinkedIn](https://www.linkedin.com/in/michael-papikyan-ba83a1331/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAWotaEFMSMGj5tFKqtE%2FMg%3D%3D)
 - 📧 Email: `Michaelpapikyan1[AT]gmail.com`
 
-# Gaming & Social 🎮
-
-- 🕹 Play games with me on steam [Steam](https://steamcommunity.com/profiles/76561198847078195/)
-- 💬 Discord: `Night0ps`
 
 
 
