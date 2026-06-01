@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Night0ps (Michael Papikyan)
+# 👋 Hello! I'm Michael Papikyan
 
 Welcome to my GitHub page! I'm a Cybersecurity student passionate about IT infrastructure, cybersecurity, homelab projects, as well as a gamer who enjoys challenges and innovation. My background in sales, customer service, and programming has helped me develop both technical and problem-solving skills. As technology continues to evolve, I’m constantly learning, building, and exploring new areas of cybersecurity to turn my passion into a long-term career. 
 
